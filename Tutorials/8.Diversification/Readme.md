@@ -193,7 +193,7 @@ null  4 -136.80 281.60 2.0233     0.3636
 The log likelihood for the BiSSE model is a little better than the log likelihood for the null model. However, is that a significant difference? The last column in this table shows the p-value. In this case, we cannot reject our null hypothesis. In other words, the BiSSE model, which hypothesised that the diversification rate changed with a change in habitat preference, is not a better fit to our data than the null hypothesis. In other words, these two models can explain our data equally well. This means that we cannot say that there the diversification pattern in our tree can be explained by the species' habitat preference.
 
 ------------------
-Now that we are done with this tutorial, we should save our pruned tree and the trimmed data object so that we can use them for the next tutorial.
+Now that we are done with this tutorial, we can save our pruned tree and the trimmed data object so that we can have them ready to use if we need them again.
 
 ```R
 write.tree(ct, "FelidaeTimes_pruned.tre")
