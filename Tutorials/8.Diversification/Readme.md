@@ -104,10 +104,10 @@ cats.forest = setNames(cats.data$forest, cats.data$Tip.name)
 head(cats.forest)
 ```
 ```
-           CM017348_Lynx_canadensis   HM185183_Prionailurus_bengalensis   JF357970_Panthera_tigris_sumatrae   JF357972_Panthera_tigris_corbetti 
-                                  1                                   1                                   1                                   1 
-           KJ508413_Panthera_tigris KJ866876_Panthera_pardus_japonensis 
-                                  1                                   1 
+           CM017348_Lynx_canadensis   HM185183_Prionailurus_bengalensis   JF357970_Panthera_tigris_sumatrae 
+                                  0                                   0                                   0 
+  JF357972_Panthera_tigris_corbetti            KJ508413_Panthera_tigris KJ866876_Panthera_pardus_japonensis 
+                                  0                                   0                                   0 
 ```
 
 Now, let's plot our final tree and the habitat data together so that we can see the overall pattern.
