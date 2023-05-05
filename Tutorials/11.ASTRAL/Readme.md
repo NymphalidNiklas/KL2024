@@ -9,7 +9,7 @@ ASTRAL is a commandline driven program, but works very simply. The input file is
 As the four genes we have been working with are too few to do a proper ASTRAL analysis, we are providing you with alignments of the other 9 protein coding genes and two ribosomal genes. You can find all 15 genes [here](../../Data/Day4) as separate Phylip formatted files. In the folder where you have downloaded IQ-TREE, create a folder called `FelidaeMtgenes` and copy the 15 Phylip files to that folder. Estimating the gene trees is very easy, you just run the command
 
 ```
-iqtree2 -S FelidaeMtgenes --prefix Felidaeloci -T AUTO
+./iqtree2 -S FelidaeMtgenes --prefix Felidaeloci -T AUTO
 ```
 After a couple of minutes you should have a number of files with the name `Felidaeloci.*`. The file we are interested in is `Felidaeloci.treefile`, which should have 15 trees in it (one tree for each gene). You can open this file in **FigTree**, and flip through the different trees by clicking on the arrows on the top right (see red rectangle below) in the program. *Do they all look like they have the same topology?* If you look very carefully, you will notice some trees are missing one or two species. This is because that particular gene was missing from the mitochondrial genome data, perhaps because the quality of the sequence was not good.
 
