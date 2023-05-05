@@ -23,4 +23,4 @@ java -jar astral.5.7.8.jar -i Felidaeloci.treefile -o FelidaeASTRAL.tre 2>Felida
 
 Now have a look at the `FelidaeASTRAL.tre` file in **FigTree**. *Does it differ from the tree you have previously gotten when analysing concatenated data?* Have a look also at the FelidaeASTRAL.log file, it gives information about how the run has progressed.
 
-**Task for the afternoon**: you can make a concatenated dataset of all 15 genes, along with a gene partition file (as you did in [Tutorial 2](../2.Alignments), and then analyse this dataset in IQ-TREE (as you did in [Tutorial 5](../5.MaximumLikelihood)).
+**Task for the afternoon**: you can make a concatenated dataset of all 15 genes, along with a gene partition file (as you did in [Tutorial 2](../2.Alignments), and then analyse this dataset in IQ-TREE (as you did in [Tutorial 3](../3.ModelSelection) and [Tutorial 5](../5.MaximumLikelihood)).
