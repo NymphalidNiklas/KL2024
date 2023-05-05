@@ -140,6 +140,7 @@ get_table = function(objs){
 }
 
 plot_models = function(DEC.fit, title){
+  library(phytools)
   ## subdivide our plotting area using layout 
   layout(matrix(1:2,1,2),widths=c(0.2,0.8)) ## set plotting parameters 
   par(mar=c(4.1,0.1,3.1,0.1),cex=0.8)
