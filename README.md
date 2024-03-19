@@ -48,7 +48,7 @@ Here we will upload all the files and information shared during the lectures!
 Here you will find the files we create during the course. (If at some point you are at a loss because your attempts to produce the results for the next step failed, here you can find the files you will need so you can keep up with the class.)
 
 
-### [Tutorials](./Tutorials/)
+### **Tutorials**
 
 Here are deposited the instructions for the assignments and exercises.
 
@@ -77,7 +77,7 @@ Here are deposited the instructions for the assignments and exercises.
 
 
 
-### [Programs used in the tutorials](./Software/)
+### **Programs used in the tutorials**
 
 Here you can find a list of the programs we are going to use and links to where you can download them.
  
