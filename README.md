@@ -25,11 +25,11 @@ In this course we will learn in practice how to download data from GenBank, crea
 
 | Hours\Days | March 26 | March 27 | March 28 | March 29 |
 | --- | ---- | ---- | ---- | ---- |
-| 9:00-10:00 | - | Tutorials 1 (JR, NW) | Tutorial 3 (JR, EY) | Museomics workshop (NW |
-| 10:00-12:00 | - | Tutorials 2 (JR, NW) | Tutorial 4 (cont.) (JR, EY) | Tutorial 9 (NW, EY) (cont.) |
+| 9:00-10:00 | - | Tutorials 1 (JR, NW) | Tutorial 3 (JR, EY) | Lecture 6: Timing of Divergence (NW) |
+| 10:00-12:00 | - | Tutorials 2 (JR, NW) | Tutorial 4 (cont.) (JR, EY) | Museomics workshop (NW) |
 | 12:00-13:00 | Lunch | Lunch | Lunch | Lunch |
 | 13:00-14:30 | Lecture 1: Introduction (NW) | Lecture 3: Introduction to model based methods (JR) | Lecture 5: Properties of DNA data and assessing robustness of hypotheses (JR) | - |
-| 14:30-16:00 | Lecture 2: Understanding trees and alignments (NW) | Lecture 4: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | free | - |
+| 14:30-16:00 | Lecture 2: Understanding trees and alignments (NW) | Lecture 4: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | Tutorial 5 (JR, NW | - |
 
 <!--  -->
 
