@@ -14,22 +14,22 @@ In this course we will learn in practice how to download data from GenBank, crea
 <!--
 | Hours\Days | March 26 | March 27 | March 28 |
 | --- | ---- | ---- | ---- | ---- |
-| 9:00-10:30 | Module outline, relevant databases (BOLD, GenBank, Darwin Tree of Life (NW, JR) | Tutorials 3-5 (JR, EY, NW) | Tutorial 6 (JR, EY) | Tutorial 8 (SH) |
-| 10:30-12:00 | Introduction to alignments, different file formats (NW) | Tutorial 3-5 (cont.) (JR, EY, NW) | Tutorial 6 (JR, EY, NW) | Tutorial 8 (SH) |
+| 9:00-10:30 | - | Lecture 2: Understanding trees and alignments (NW) | Lecture 4: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | Tutorial 6 (JR, EY) | Tutorial 8 (SH) |
+| 10:30-12:00 | - | Tutorial 2 (JR, NW) | Tutorial 4 (JR, NW) | Tutorial 6 (JR, EY, NW) | Tutorial 8 (SH) |
 | 12:00-13:00 | Lunch | Lunch | Lunch | Lunch |
-| 13:00-14:30 | Tutorial 1 | Tutorials 3-5 (cont.) (JR, EY, NW) |  free | Tutorial 9 (JR, EY) |
-| 14:30-16:00 | Tutorial 2 | Tutorials 3-5 (cont.) (JR, EY, NW) | free | Tutorial 9 (JR, EY) |
+| 13:00-14:30 | Lecture 1: Introduction (NW) | Lecture 3: Introduction to model based methods (JR) |  Tutorial 5 (JR, NW) | Tutorial 9 (JR, EY) |
+| 14:30-16:00 | Tutorial 1 (JR, NW) | Tutorial 3 (JR, NW) | free | Tutorial 9 (JR, EY) |
 -->
 
 <!-- | 10:30-12:00 | Introduction to alignments, different file formats (NW) | Tutorial 3-5 (cont.) (JR, EY, NW) | Tutorial 7 (JR, EY, NW) | Tutorial 8 (SH, EY)(cont.) (SH) | -->
 
 | Hours\Days | March 26 | March 27 | March 28 | March 29 |
 | --- | ---- | ---- | ---- | ---- |
-| 9:00-10:00 | - | Tutorials 1 (JR, NW) | Tutorial 3 (JR, NW) | Lecture 6: Timing of Divergence (NW) |
-| 10:00-12:00 | - | Tutorials 2 (JR, NW) | Tutorial 4 (cont.) (JR, NW) | Museomics workshop (NW) |
+| 9:00-10:00 | - | Tutorial 1 (JR, NW) | Tutorial 3 (JR, NW) | Lecture 6: Timing of Divergence (NW) |
+| 10:00-12:00 | - | Tutorial 2 (JR, NW) | Tutorial 4 (JR, NW) | Museomics workshop (NW) |
 | 12:00-13:00 | Lunch | Lunch | Lunch | Lunch |
 | 13:00-14:30 | Lecture 1: Introduction (NW) | Lecture 3: Introduction to model based methods (JR) | Lecture 5: Properties of DNA data and assessing robustness of hypotheses (JR) | - |
-| 14:30-16:00 | Lecture 2: Understanding trees and alignments (NW) | Lecture 4: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | Tutorial 5 (JR, NW | - |
+| 14:30-16:00 | Lecture 2: Understanding trees and alignments (NW) | Lecture 4: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | Tutorial 5 (JR, NW) | - |
 
 <!--  -->
 
