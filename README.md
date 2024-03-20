@@ -15,10 +15,10 @@ In this course we will learn in practice how to download data from GenBank, crea
 
 | Hours\Days | March 26 | March 27 | March 28 | March 29 |
 | --- | ---- | ---- | ---- | ---- |
-| 9:00-10:30 | - | Tutorial 1 (JR, NW) | Lecture 3: Introduction to model based methods (JR) | Lecture 5: Properties of DNA data and assessing robustness of hypotheses (JR) |
-| 10:30-12:00 | - | Lecture 2: Understanding trees and alignments (NW) | Tutorial 3 (JR, NW) | Museomics workshop (NW) |
+| 9:00-10:30 | - | Tutorial 1 (JR, NW) | Lecture 3: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | Tutorial 4 (JR, NW) |
+| 10:30-12:00 | - | Lecture 2: Introduction to model based methods (JR) | Tutorial 3 (JR, NW) | Museomics workshop (NW) |
 | 12:00-13:00 | Lunch | Lunch | Lunch | Lunch |
-| 14:30-16:00 | Lecture 1: Introduction (NW) | Tutorial 2 (JR, NW) | Lecture 4: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | - |
+| 14:30-16:00 | Lecture 1: Introduction (NW) | Tutorial 2 (JR, NW) | Lecture 4: Properties of DNA data and assessing robustness of hypotheses (JR) | - |
 
 <!-- 
 | Hours\Days | March 26 | March 27 | March 28 | March 29 |
