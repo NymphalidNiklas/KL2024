@@ -12,6 +12,15 @@ In this course we will learn in practice how to download data from GenBank, crea
 **Location:** South China Agricultural University, Guangzhou
 
 <!-- -->
+
+| Hours\Days | March 26 | March 27 | March 28 | March 29 |
+| --- | ---- | ---- | ---- | ---- |
+| 9:00-10:30 | - | Tutorial 1 (JR, NW) | Lecture 3: Introduction to model based methods (JR) | Lecture 5: Properties of DNA data and assessing robustness of hypotheses (JR) |
+| 10:30-12:00 | - | Lecture 2: Understanding trees and alignments (NW) | Tutorial 3 (JR, NW) | Museomics workshop (NW) |
+| 12:00-13:00 | Lunch | Lunch | Lunch | Lunch |
+| 14:30-16:00 | Lecture 1: Introduction (NW) | Tutorial 2 (JR, NW) | Lecture 4: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | - |
+
+<!-- 
 | Hours\Days | March 26 | March 27 | March 28 | March 29 |
 | --- | ---- | ---- | ---- | ---- |
 | 9:00-10:30 | - | Lecture 2: Understanding trees and alignments (NW) | Lecture 4: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | Lecture 6: Timing of Divergence (NW) | Tutorial 8 (SH) |
@@ -19,7 +28,7 @@ In this course we will learn in practice how to download data from GenBank, crea
 | 12:00-13:00 | Lunch | Lunch | Lunch | Lunch |
 | 13:00-14:30 | Lecture 1: Introduction (NW) | Lecture 3: Introduction to model based methods (JR) |  Tutorial 5 (JR, NW) | - |
 | 14:30-16:00 | Tutorial 1 (JR, NW) | Tutorial 3 (JR, NW) | Lecture 5: Properties of DNA data and assessing robustness of hypotheses (JR) | - |
-
+-->
 
 <!-- | 10:30-12:00 | Introduction to alignments, different file formats (NW) | Tutorial 3-5 (cont.) (JR, EY, NW) | Tutorial 7 (JR, EY, NW) | Tutorial 8 (SH, EY)(cont.) (SH) | -->
 
