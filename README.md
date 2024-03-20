@@ -88,11 +88,12 @@ Here you can find a list of the programs we are going to use and links to where 
 
  * [IQ-TREE2](http://www.iqtree.org/)
  
- * [MrBayes](http://nbisweden.github.io/MrBayes/)
+
 	
  * [FigTree](http://tree.bio.ed.ac.uk/software/figtree/)
 
 <!--
+ * [MrBayes](http://nbisweden.github.io/MrBayes/)
  * [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.1)
  
  * [BEAST2](http://www.beast2.org/)
