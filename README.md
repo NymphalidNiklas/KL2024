@@ -12,7 +12,7 @@ In this course we will learn in practice how to download data from GenBank, crea
 **Location:** South China Agricultural University, Guangzhou
 
 <!-- -->
-| Hours\Days | March 26 | March 27 | March 28 |
+| Hours\Days | March 26 | March 27 | March 28 | March 29 |
 | --- | ---- | ---- | ---- | ---- |
 | 9:00-10:30 | - | Lecture 2: Understanding trees and alignments (NW) | Lecture 4: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | Lecture 6: Timing of Divergence (NW) | Tutorial 8 (SH) |
 | 10:30-12:00 | - | Tutorial 2 (JR, NW) | Tutorial 4 (JR, NW) | Tutorial 6 (JR, EY, NW) | Museomics workshop (NW) |
