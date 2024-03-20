@@ -7,7 +7,7 @@ Teachers Jadranka Rota and Niklas Wahlberg
 
 In this course we will learn in practice how to download data from GenBank, create a multigene dataset, analyse the dataset using maximum likelihood and Bayesian methods, infer times of divergence, and finally use the tree to understand the evolutionary history and diversification of the group.
 
-## **Program**
+## **Schedule**
 
 **Location:** South China Agricultural University, Guangzhou
 
@@ -15,23 +15,12 @@ In this course we will learn in practice how to download data from GenBank, crea
 
 | Hours\Days | March 26 | March 27 | March 28 | March 29 |
 | --- | ---- | ---- | ---- | ---- |
-| 9:00-10:30 | - | Tutorial 1 (JR, NW) | Lecture 3: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | Tutorial 4 (JR, NW) |
+| 9:00-10:30 | - | Tutorial 1 (JR, NW) | Lecture 3: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR or NW) | Tutorial 4 (JR, NW) |
 | 10:30-12:00 | - | Lecture 2: Introduction to model based methods (JR) | Tutorial 3 (JR, NW) | Museomics workshop (NW) |
 | 12:00-14:30 | Lunch | Lunch | Lunch | Lunch |
-| 14:30-16:00 | Lecture 1: Introduction (NW) | Tutorial 2 (JR, NW) | Lecture 4: Properties of DNA data and assessing robustness of hypotheses (JR) | - |
+| 14:30-16:00 | Lecture 1: Introduction (NW) | Tutorial 2 (JR, NW) | Lecture 4: Properties of DNA data and assessing robustness of hypotheses (JR or NW) | - |
 
-<!-- 
-| Hours\Days | March 26 | March 27 | March 28 | March 29 |
-| --- | ---- | ---- | ---- | ---- |
-| 9:00-10:30 | - | Lecture 2: Understanding trees and alignments (NW) | Lecture 4: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | Lecture 6: Timing of Divergence (NW) | Tutorial 8 (SH) |
-| 10:30-12:00 | - | Tutorial 2 (JR, NW) | Tutorial 4 (JR, NW) | Tutorial 6 (JR, EY, NW) | Museomics workshop (NW) |
-| 12:00-13:00 | Lunch | Lunch | Lunch | Lunch |
-| 13:00-14:30 | Lecture 1: Introduction (NW) | Lecture 3: Introduction to model based methods (JR) |  Tutorial 5 (JR, NW) | - |
-| 14:30-16:00 | Tutorial 1 (JR, NW) | Tutorial 3 (JR, NW) | Lecture 5: Properties of DNA data and assessing robustness of hypotheses (JR) | - |
--->
-
-<!-- | 10:30-12:00 | Introduction to alignments, different file formats (NW) | Tutorial 3-5 (cont.) (JR, EY, NW) | Tutorial 7 (JR, EY, NW) | Tutorial 8 (SH, EY)(cont.) (SH) | -->
-
+<!--  
 | Hours\Days | March 26 | March 27 | March 28 | March 29 |
 | --- | ---- | ---- | ---- | ---- |
 | 9:00-10:00 | - | Tutorial 1 (JR, NW) | Tutorial 3 (JR, NW) | Lecture 6: Timing of Divergence (NW) |
@@ -39,7 +28,7 @@ In this course we will learn in practice how to download data from GenBank, crea
 | 12:00-13:00 | Lunch | Lunch | Lunch | Lunch |
 | 13:00-14:30 | Lecture 1: Introduction (NW) | Lecture 3: Introduction to model based methods (JR) | Lecture 5: Properties of DNA data and assessing robustness of hypotheses (JR) | - |
 | 14:30-16:00 | Lecture 2: Understanding trees and alignments (NW) | Lecture 4: Statistical frameworks for modelling in phylogenetics (ML and Bayesian) (JR) | Tutorial 5 (JR, NW) | - |
-
+-->
 <!--  -->
 
 
@@ -68,9 +57,7 @@ Here are deposited the instructions for the assignments and exercises.
  
  (3) [Select the best evolutionary model and partitioning scheme](./Tutorials/3.ModelSelection/)
  
- (4) [Bayesian methods](./Tutorials/4.BayesianInference/)
- 
- (5) [Maximum likelihood methods](./Tutorials/5.MaximumLikelihood/)
+ (4) <!--[Bayesian methods](./Tutorials/4.BayesianInference/) -->[Maximum likelihood methods](./Tutorials/5.MaximumLikelihood/)
  
 <!--
  (6) [Timing of divergence analysis](./Tutorials/6.TimingDivergence/)
