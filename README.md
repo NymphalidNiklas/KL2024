@@ -5,7 +5,7 @@ Teachers Jadranka Rota and Niklas Wahlberg
 
 ## **Introduction**
 
-In this course we will learn in practice how to download data from GenBank, create a multigene dataset, analyse the dataset using maximum likelihood and Bayesian methods, infer times of divergence, and finally use the tree to understand the evolutionary history and diversification of the group.
+In this course we will learn in practice how to download data from GenBank, create a multigene dataset, and analyse the dataset using maximum likelihood. We will also hear about how we can use museum specimens for molecular analyses, in particular whole genome sequencing.
 
 ## **Schedule**
 
