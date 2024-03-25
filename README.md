@@ -16,7 +16,7 @@ In this course we will learn in practice how to download data from GenBank, crea
 | Hours\Days | March 26 | March 27 | March 28 | March 29 |
 | --- | ---- | ---- | ---- | ---- |
 | 9:00-10:30 | - | Lecture 2: Understanding tree and DNA substitution models (JR) | Lecture 3: Properties of DNA data and assessing robustness of hypotheses (JR) | Museomics workshop (NW) |
-| 10:30-12:00 | - | Tutorial1 1 | Tutorial 3 (JR, NW) | - |
+| 10:30-12:00 | - | Tutorial 1 | Tutorial 3 (JR, NW) | - |
 | 12:00-14:30 | Lunch | Lunch | Lunch | Lunch |
 | 14:30-16:30 | Lecture 1: Introduction (NW) | Tutorial 2 (JR, NW) | Tutorial 4 (JR, NW) | - |
 
