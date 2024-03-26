@@ -82,7 +82,7 @@ Here you can find a list of the programs we are going to use and links to where 
    	- **Notepad++** for Windows users
    	- **Linux** users not covered
 
- * [MAFFT](https://mafft.cbrc.jp/alignment/software/)
+ <!-- * [MAFFT](https://mafft.cbrc.jp/alignment/software/) -->
 
  * [AliView](http://www.ormbunkar.se/aliview/downloads/)
 
