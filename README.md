@@ -1,7 +1,7 @@
 
-# **Molecular Phylogenetics, South China Agricultural University**
+# **Molecular Phylogenetics, Monash University Malaysia, Kuala Lumpur**
 
-Teachers Jadranka Rota and Niklas Wahlberg
+Teacher Niklas Wahlberg
 
 ## **Introduction**
 
@@ -9,18 +9,26 @@ In this course we will learn in practice how to download data from GenBank, crea
 
 ## **Schedule**
 
-**Location:** South China Agricultural University, Guangzhou
+**Location:** Monash University Malaysia, Kuala Lumpur
 
 <!-- -->
 
-| Hours\Days | March 26 | March 27 | March 28 | March 29 |
-| --- | ---- | ---- | ---- | ---- |
+| Hours\Days | November 12 |
+| --- | ---- |
+| 9:00-9:30 | Registration |
+| 9:30-10:30 | - |
+| 10:30-11:00 | Break |
+| 11:00-12:30 | - |
+| 12:30-14:00 | Lunch |
+| 14:00-16:30 | - |
+
+<!--  
+
 | 9:30-11:00 | - | Lecture 2: Understanding trees and DNA substitution models (JR) | Lecture 3: Properties of DNA data and assessing robustness of hypotheses (JR) | Museomics workshop (NW) |
 | 11:00-12:00 | - | Tutorial 1 | Tutorial 3 (JR, NW) | - |
 | 12:00-14:30 | Lunch | Lunch | Lunch | - |
 | 14:30-16:30 | Lecture 1: Introduction (NW) | Tutorial 2 (JR, NW) | Tutorial 4 (JR, NW) | - |
 
-<!--  
 | Hours\Days | March 26 | March 27 | March 28 | March 29 |
 | --- | ---- | ---- | ---- | ---- |
 | 9:00-10:00 | - | Tutorial 1 (JR, NW) | Tutorial 3 (JR, NW) | Lecture 6: Timing of Divergence (NW) |
