@@ -16,11 +16,13 @@ In this course we will learn in practice how to download data from GenBank, crea
 | Hours\Days | November 12 |
 | --- | ---- |
 | 9:00-9:30 | Registration |
-| 9:30-10:30 | - |
+| 9:30-10:30 | Presentation: Molecular phylogenetics |
 | 10:30-11:00 | Break |
-| 11:00-12:30 | - |
+| 11:00-12:30 | Tutorials: making a phylogeny  |
 | 12:30-14:00 | Lunch |
-| 14:00-16:30 | - |
+| 14:00-14:45 | Presentation: Museomics |
+| 14:45-15:00 | Short break |
+| 15:00-16:30 | Tutorials continue |
 
 <!--  
 
